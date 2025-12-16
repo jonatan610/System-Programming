@@ -1,4 +1,7 @@
 # Assignment 2: File Copy Program (my_copy)-SDD
+**GitHub Repository:**  
+[Click here to view the project on GitHub](https://github.com/jonatan610/System-Programming/tree/main/ex2)
+
 **Student Name:** 
 **Student Name:** Yehonatan Shapira  
 **ID:** 208969246  
