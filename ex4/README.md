@@ -1,4 +1,7 @@
 # Homework 4 – Multithreaded Echo Server & Resource Synchronization
+
+[Full project folder on GitHub](https://github.com/jonatan610/System-Programming/tree/main/ex4)
+
 ## 1. Project Objective
 
 The purpose of this project is to implement a multithreaded Echo server using system calls in Linux. The server handles multiple clients concurrently using POSIX threads. It receives text from each client, converts all lowercase letters to uppercase, and sends the result back.
